@@ -56,6 +56,10 @@ Utilizing a MERN stack (MongoDB, Express, React, and Node.js), here's an outline
   representation of the outcomes.
 
 
+  ![image](https://github.com/ShamillFazal/Ctrl-Alt-Defeat-Frontend/assets/94766229/1ab3318e-2431-492f-8414-4a8867741d28)
+
+
+
 
 
 
